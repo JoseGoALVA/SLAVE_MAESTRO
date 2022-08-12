@@ -24,7 +24,7 @@
       <itemPath>OSCILADOR.c</itemPath>
       <itemPath>TMR0.c</itemPath>
       <itemPath>ADC.c</itemPath>
-      <itemPath>Master.c</itemPath>
+      <itemPath>main.c</itemPath>
     </logicalFolder>
     <logicalFolder name="ExternalFiles"
                    displayName="Important Files"
